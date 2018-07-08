@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/tianzg96/tianzg96.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+title: Welcome to the tianzg96’s homepage!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+description:Feel free to bookmark this to keep an eye on my project updates
 
 ### Markdown
 
